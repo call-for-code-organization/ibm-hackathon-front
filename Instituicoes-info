@@ -1,0 +1,92 @@
+{
+    "instituicoes" : [
+        {
+            "nome":"ABCD Nossa Casa",
+            "endereco":" R. Cotoxó, 970 - 111 - Pompeia, São Paulo - SP, 05021-001",
+            "url":"http://abcdnossacasa.org.br",
+            "telefone":"(11) 4563-0608",
+            "latitude":"-23.534525",
+            "longitude":"-46.687261",
+            "logoUrl":"https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/13256128_1419768361372772_4974777475091265250_n.jpg?_nc_cat=106&_nc_ht=scontent.fpoa8-2.fna&oh=1750ad80e75835f7061b17d2cfac03b2&oe=5D5AC063",
+            "descricao":"Promover a integração de jovens, crianças e adolescentes na sociedade utilizando a educação como principal veículo de desenvolvimento, aproximação e capacitação.",
+            "tag":"Gurizada"
+        },
+        {
+            "nome":"Ação Comunitária do Brasil - São Paulo",
+            "endereco":"Rua Amacás, 243 - Jardim Leonidas Moreira, São Paulo - SP, 05792-030",
+            "url":"https://www.vocacao.org.br/",
+            "telefone":"(11) 5843-2911",
+            "latitude":"-23.639899",
+            "longitude":"-46.779189",
+            "logoUrl":"https://scontent.fpoa8-1.fna.fbcdn.net/v/t1.0-9/1006343_587525367959844_535805363_n.jpg?_nc_cat=103&_nc_ht=scontent.fpoa8-1.fna&oh=34eb43463f8aac533d15bc4b24a965a2&oe=5D5AC9EA",
+            "descricao":"Construir uma dinâmica social mais justa e igualitária, impactando efetiva e positivamente a vida das pessoas e de suas comunidades por meio da formulação, implantação e disseminação de metodologias em que crianças e jovens possam fortalecer seus Projetos de Vida.",
+            "tag":"Geral"
+        },
+        {
+            "nome":"ASID",
+            "endereco":"R. Sen. Xavier da Silva, 26 - São Francisco, Curitiba - PR, 80530-022",
+            "url":"https://asidbrasil.org.br/",
+            "telefone":"(41) 3501-3145",
+            "latitude":"-25.419394",
+            "longitude":"-49.274566",
+            "logoUrl":"https://scontent.fpoa10-1.fna.fbcdn.net/v/t1.0-9/50396393_1982750248461476_8240888054462545920_n.png?_nc_cat=104&_nc_ht=scontent.fpoa10-1.fna&oh=b49fc3fe8150d9aba1432c9bbfc34fc6&oe=5D8B94D6",
+            "descricao":"Unir empresas, voluntários, instituições e pessoas com deficiência (PcD) para construir uma sociedade inclusiva. Possibilitar a todas as pessoas com deficiência terem a oportunidade de desenvolver seu potencial.",
+            "tag":"Inclusão"
+        },
+        {
+            "nome":"Aldeias Infantis SOS Brasil",
+            "endereco":"Av. Caldeia, 250 - Sarandi, Porto Alegre - RS, 91130-540",
+            "url":"https://www.aldeiasinfantis.org.br/",
+            "telefone":"(51) 3364-7999",
+            "latitude":"-29.983636",
+            "longitude":"-51.109168",
+        "logoUrl":"https://scontent.fpoa10-1.fna.fbcdn.net/v/t1.0-9/13880172_1378032235546508_786000698961957117_n.png?_nc_cat=106&_nc_ht=scontent.fpoa10-1.fna&oh=7285a4714a1631a47493133deed6b5cf&oe=5D9B47F7",
+            "descricao":"Apoiamos crianças e famílias, ajudamos a construir seu próprio futuro e participamos no desenvolvimento de suas comunidades.",
+            "tag":"Gurizada"
+        },
+        {
+            "nome":"Creche Alvorada",
+            "endereco":"R. Alfredo Baldo, 41 - Jardim do Trevo, Ribeirão Preto - SP, 14093-174",
+            "url":"http://crechealvorada.org/",
+            "telefone":"(16) 3617-0919",
+            "latitude":"-21.180565",
+            "longitude":"-47.755748",
+            "logoUrl":"https://scontent.fpoa8-1.fna.fbcdn.net/v/t1.0-9/999004_246484578809513_1709058061_n.png?_nc_cat=103&_nc_ht=scontent.fpoa8-1.fna&oh=d47c0b2130d658717e442e64803ae615&oe=5D563051",
+            "descricao":"Promover ações socioeducativas que desenvolvam os potenciais de crianças e adolescentes em situação de vulnerabilidade social, oferecendo um ambiente de novas oportunidades.",
+            "tag":"Gurizada"
+        },
+        {
+            "nome":"ADB - Amigos do Bem",
+            "endereco":"Dr. Gabriel de Resende, 122 - Vila Invernada, São Paulo - SP, 03350-005",
+            "url":"http://crechealvorada.org/",
+            "telefone":"(11) 3019.0100",
+            "latitude":"-23.571378",
+            "longitude":"-46.565497",
+            "logoUrl":"https://www.amigosdobem.org/wp-content/uploads/2018/11/logo_amigosdobem_adb_maior.png",
+            "descricao":"Transformamos vidas através da educação e de projetos autossustentáveis, capazes de promover desenvolvimento local e inclusão social, erradicando a fome e a miséria.",
+            "tag":"Geral"
+        },
+        {
+            "nome":"Asilo Padre Cacique",
+            "endereco":"Av. Padre Cacique, 1178 - Menino Deus, Porto Alegre - RS, 90810-240",
+            "url":"https://www.asilopadrecacique.org.br",
+            "telefone":"(51) 3233-7571",
+            "latitude":"-30.067213",
+            "longitude":"-51.236906",
+            "logoUrl":"https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/53408401_2074479372649111_5051233482601136128_n.jpg?_nc_cat=104&_nc_ht=scontent.fpoa8-2.fna&oh=20c3eff4480c1fe5dec559b3fd6cf1bf&oe=5D90E682",
+            "descricao":"O Asilo Padre Cacique acolhe e mantém pessoas idosas a partir dos 60 anos de idade em situação de vulnerabilidade social, executando serviços, programas, projetos e benefícios socioassistenciais, culturais e recreativos de forma gratuita e de caráter continuado prolongado.",
+            "tag":"Vovôs"
+        },
+        {
+            "nome":"Patas Dadas",
+            "endereco":"Av. Bento Gonçalves, 9500 - Agronomia, Porto Alegre - RS, 90650-001",
+            "url":"http://www.patasdadas.com.br",
+            "telefone":"contato@patasdadas.com.br",
+            "latitude":"-30.075913",
+            "longitude":"-51.123139",
+            "logoUrl":"https://scontent.fpoa8-2.fna.fbcdn.net/v/t1.0-9/49119897_2995753340450380_496869154268119040_o.jpg?_nc_cat=100&_nc_ht=scontent.fpoa8-2.fna&oh=93e6f70d416693f35ec539bb2a408b92&oe=5D92C608",
+            "descricao":"Resgatar animais em situação de abandono, proporcionando o atendimento veterinário necessário até estarem prontos para a adoção, buscando conscientizar a população da importância da adoção responsável.",
+            "tag":"Doguinhos"
+        }
+    ]
+}
