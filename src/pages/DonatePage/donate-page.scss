@@ -1,0 +1,27 @@
+.donate-page {
+  h2 {
+    margin-bottom: 15px;
+  }
+  .donate-footer {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .page-description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 20px;
+  }
+}
+
+.header-back {
+  margin-bottom: 30px;
+  text-align: left;
+  width: 100%;
+
+  a.primary {
+    color: #282828;
+    font-weight: 600;
+  }
+}
